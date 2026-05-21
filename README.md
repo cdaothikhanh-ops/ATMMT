@@ -35,5 +35,3 @@ Thiết lập quy tắc chuyển hướng tự động lưu lượng tấn công
 * **Xác thực Log:** Toàn bộ tiến trình phá hoại được ghi lại chi tiết theo thời gian thực tại file nhật ký `/opt/cowrie/var/log/cowrie/cowrie.log`. Các máy chủ thật như Web Server Apache không bị ảnh hưởng.
 
 ---
-
-  4. Tống Lạc Lan Viên (2033230322) – Cấu hình Honeypot Cowrie & Quay video.
